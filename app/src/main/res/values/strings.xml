@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UMAK</string>
+    <string name="notification_channel_playback">Playback</string>
+    <string name="notification_channel_playback_desc">Music playback controls</string>
+</resources>

@@ -1,0 +1,34 @@
+# Default .gitignore for Android project
+
+# Build outputs
+/build/
+/app/build/
+
+# Android Studio project files
+*.iml
+.gradle/
+local.properties
+.idea/
+*.orig
+
+# Kotlin / Java
+*.class
+*.jar
+*.aar
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Gradle caches (kept in GRADLE_USER_HOME, not in repo)
+.gradle/
+
+# Kotlin daemon session files
+.kotlin/
+
+# Proguard mappings (keep if you need to deobfuscate crash reports)
+# app/build/outputs/mapping/
+
+# Test results
+app/build/reports/
+app/build/test-results/

@@ -1,0 +1,27 @@
+﻿# Cursor agent conversation history (MusicPlayer project)
+# Exported: 2026-05-05 02:16:13 local time
+# Order: oldest session first (by transcript file creation time).
+
+001 — session 05bf1281-3d07-47bb-ae39-ed9c32066fe2 (parent transcript)
+002 — session 39876803-8d56-4ff9-bff2-3a91552b907d (parent transcript)
+    + subagent 2ac17c18-684c-4172-b931-f57ff240d5a4
+003 — session 41be620c-04bf-4e72-b6b5-f0d8bb1f40a2 (parent transcript)
+    + subagent 0522d2e2-c174-48f2-b94b-0aab848cdb15
+004 — session 3f0e20d7-1dee-4af0-839d-ee433e32c648 (parent transcript)
+    + subagent bbc7e337-503d-4386-aee9-a3880542dded
+005 — session bdf356fe-c2d5-4b80-abb1-c7ebc5eaa2b5 (parent transcript)
+    + subagent c4779954-81e1-48a9-ae3e-490640f82054
+006 — session c572f7b5-5c73-465b-b556-dca475617e3b (parent transcript)
+    + subagent b9eca821-1a34-4052-86dc-0a366aace794
+007 — session b25b7d91-0c1b-4b9c-ad0f-3bc695985563 (parent transcript)
+    + subagent 3d600dd8-4898-4f6b-9b35-e4943fe032c6
+008 — session ba4cfb48-5686-4b73-9a83-ddd730d6ba84 (parent transcript)
+    + subagent 5042b4af-a979-4095-aac5-76d16d36dd01
+009 — session 55eb4062-ac3b-49d6-9453-92101e03c723 (parent transcript)
+    + subagent c8326e6d-5137-4227-926e-4d084d9374ba
+010 — session 07f832ae-32b4-4188-9b94-2c357565bb44 (parent transcript)
+    + subagent 45122a21-5ba0-494a-a0c9-729e988ffc08
+011 — session 4aee39a9-79a5-4533-b28d-48e65ce2ef20 (parent transcript)
+    + subagent dd9ff9ec-62d1-4e4c-979e-337c2c3ccec8
+012 — session b5f63e8a-fde8-47bc-8151-683b40dd63fe (parent transcript)
+013 — session 9a05bb3f-24d1-48ff-825c-20e6e982acba (parent transcript)
