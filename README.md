@@ -6,26 +6,13 @@ A personal **UMAK** music player for Android (Kotlin, Jetpack Compose, Media3 Ex
 
 ## Screenshots
 
-Add PNG or WebP files under [`screens/`](screens/) using the names below, then the images will render on GitHub automatically.
+| Home | Library | Now Playing |
+|------|---------|-------------|
+| ![Home](screens/Home.jpeg) | ![Library](screens/Library.jpeg) | ![Now Playing](screens/Now_Playing.jpeg) |
 
-| Area | Placeholder file | Description |
-|------|------------------|-------------|
-| Home | [`screens/01-home.png`](screens/01-home.png) | Recently added, scan prompt, bottom nav |
-| Library | [`screens/02-library.png`](screens/02-library.png) | Tabs, search, track list |
-| Now playing | [`screens/03-now-playing.png`](screens/03-now-playing.png) | Art, scrubber, transport, volume |
-| Equalizer | [`screens/04-equalizer.png`](screens/04-equalizer.png) | Band sliders, presets, Bass Boost / Virtualizer |
-| File explorer | [`screens/05-files.png`](screens/05-files.png) | Breadcrumbs, file ops (if enabled on device) |
-| Settings | [`screens/06-settings.png`](screens/06-settings.png) | Theme, audio prefs, About |
-
-**Inline gallery (optional):**
-
-![Home — add screenshot at screens/01-home.png](screens/01-home.png)
-
-![Library — add screenshot at screens/02-library.png](screens/02-library.png)
-
-![Now playing — add screenshot at screens/03-now-playing.png](screens/03-now-playing.png)
-
-![Equalizer — add screenshot at screens/04-equalizer.png](screens/04-equalizer.png)
+| Equalizer | File Explorer | Settings |
+|-----------|---------------|----------|
+| ![Equalizer](screens/Equalizer.jpeg) | ![File Explorer](screens/Files.jpeg) | ![Settings](screens/Settings.jpeg) |
 
 ---
 
