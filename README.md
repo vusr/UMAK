@@ -129,4 +129,6 @@ app/src/main/java/com/musicplayer/
 
 ## License
 
-Add a `LICENSE` file if you plan to publish this publicly; the repository does not ship a default license.
+Copyright (c) 2026 vusr. Licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE).
+
+You may use, modify, and distribute this software for **noncommercial purposes only**. Commercial use — including selling, sublicensing, or providing paid services built on this software — is not permitted without explicit written permission from the author.
